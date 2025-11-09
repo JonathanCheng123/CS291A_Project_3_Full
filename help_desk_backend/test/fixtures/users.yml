@@ -1,0 +1,9 @@
+one:
+  username: user_one
+  password_digest: MyString
+  last_active_at: 2025-11-06 19:51:54
+
+two:
+  username: user_two
+  password_digest: MyString
+  last_active_at: 2025-11-06 19:51:54
